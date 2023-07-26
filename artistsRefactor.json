@@ -1,0 +1,32 @@
+[
+  {
+    "id": "001",
+    "name": "NF",
+    "imageSrc": "nf.jpg"
+  },
+  {
+    "id": "002",
+    "name": "piri & tommy",
+    "imageSrc": "piritommy.jpg"
+  },
+  {
+    "id": "003",
+    "name": "Rag'n'Bone Man",
+    "imageSrc": "ragnboneman.jpg"
+  },
+  {
+    "id": "004",
+    "name": "Rick Astley",
+    "imageSrc": "rickastley.jpg"
+  },
+  {
+    "id": "005",
+    "name": "Cocodrillo",
+    "imageSrc": "cocodrillo.jpg"
+  },
+  {
+    "id": "006",
+    "name": "Skrillex",
+    "imageSrc": "skrillex.jpg"
+  }
+]
